@@ -1,0 +1,12 @@
+{
+	"data":{
+		"version":"0.0.7",
+		"forced":0,
+		"url":"https://lljwdbklb.github.io/suli/",
+		"title":"版本更新",
+		"message":"优化：\n*排序问题\n添加：\n*图标功能\n*钱包选择\n*版本更新等问题",
+		"time":"2017/11/1"
+	},
+	"message":"成功",
+	"code":10
+}
