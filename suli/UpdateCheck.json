@@ -1,12 +1,12 @@
 {
 	"data":{
-		"version":"0.0.8",
-		"build":"8",
+		"version":"0.0.9",
+		"build":"9",
 		"forced":0,
 		"url":"https://lljwdbklb.github.io/suli/",
 		"title":"版本更新",
-		"message":"添加：\n*钱包添加排序修改\n*修复闪退问题",
-		"time":"2017/11/20"
+		"message":"修改：\n预算",
+		"time":"2018/02/07"
 	},
 	"message":"成功",
 	"code":10
