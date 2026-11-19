@@ -1,0 +1,21 @@
+{
+  "version": "1.0.3",
+  "build": "2",
+  "url": "https://lljwdbklb.github.io/qiang/qiang_release_103_2_chang.apk",
+  "content": "1) 选块改为页内自旋，不再依赖 XPath，页面结构变了也不点空；2) 14:00 开抢后 1 帧内落位，去掉全部固定等待；3) 「接受须知」改为瞬时滚到底+轮询可用，不再固定 sleep；4) 版本检查按包名区分，两个包不再互相装错、也不再误报降级；5) grab.js 支持在线热更新，改脚本不用重发包。",
+  "updated": "2026-11-19T10:25:39+08:00",
+  "packages": {
+    "com.example.flutter_qiangchang": {
+      "version": "1.0.3",
+      "build": "2",
+      "url": "https://lljwdbklb.github.io/qiang/qiang_release_103_2_chang.apk",
+      "content": "1) 选块改为页内自旋，不再依赖 XPath，页面结构变了也不点空；2) 14:00 开抢后 1 帧内落位，去掉全部固定等待；3) 「接受须知」改为瞬时滚到底+轮询可用，不再固定 sleep；4) 版本检查按包名区分，两个包不再互相装错、也不再误报降级；5) grab.js 支持在线热更新，改脚本不用重发包。"
+    },
+    "com.example.flutter_qiangchang2": {
+      "version": "1.0.3",
+      "build": "2",
+      "url": "https://lljwdbklb.github.io/qiang/qiang_release_103_2_chang2.apk",
+      "content": "1) 选块改为页内自旋，不再依赖 XPath，页面结构变了也不点空；2) 14:00 开抢后 1 帧内落位，去掉全部固定等待；3) 「接受须知」改为瞬时滚到底+轮询可用，不再固定 sleep；4) 版本检查按包名区分，两个包不再互相装错、也不再误报降级；5) grab.js 支持在线热更新，改脚本不用重发包。"
+    }
+  }
+}
