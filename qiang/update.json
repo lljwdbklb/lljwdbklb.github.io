@@ -1,21 +1,21 @@
 {
-  "version": "1.0.3",
-  "build": "2",
-  "url": "https://github.com/lljwdbklb/lljwdbklb.github.io/releases/download/v1.0.3/qiang_release_103_2_chang.apk",
-  "content": "1) 选块改为页内自旋，不再依赖 XPath；2) 14:00 开抢后 1 帧内落位，去掉全部固定等待；3) 接受须知改为瞬时滚到底+轮询可用；4) 版本检查按包名分发，两个包不再互相装错、也不再误报降级；5) grab.js 支持在线热更新。",
+  "version": "1.0.4",
+  "build": "3",
+  "url": "https://github.com/lljwdbklb/lljwdbklb.github.io/releases/download/v1.0.4/qiang_release_104_3_chang.apk",
+  "content": "1) 两个包桌面名称分开：抢场① / 抢场②，分屏抢两个号不会认错窗口；2) 版本 1.0.4 / build 3，便于确认装的是哪一版；3) 功能同 1.0.3：选块页内自旋、14:00 一帧落位、接受须知轮询、双包 OTA、grab.js 热更新。",
   "channel": "release",
   "packages": {
     "com.example.flutter_qiangchang": {
-      "version": "1.0.3",
-      "build": "2",
-      "url": "https://github.com/lljwdbklb/lljwdbklb.github.io/releases/download/v1.0.3/qiang_release_103_2_chang.apk",
-      "content": "1) 选块改为页内自旋，不再依赖 XPath；2) 14:00 开抢后 1 帧内落位，去掉全部固定等待；3) 接受须知改为瞬时滚到底+轮询可用；4) 版本检查按包名分发，两个包不再互相装错、也不再误报降级；5) grab.js 支持在线热更新。"
+      "version": "1.0.4",
+      "build": "3",
+      "url": "https://github.com/lljwdbklb/lljwdbklb.github.io/releases/download/v1.0.4/qiang_release_104_3_chang.apk",
+      "content": "1) 两个包桌面名称分开：抢场① / 抢场②，分屏抢两个号不会认错窗口；2) 版本 1.0.4 / build 3，便于确认装的是哪一版；3) 功能同 1.0.3：选块页内自旋、14:00 一帧落位、接受须知轮询、双包 OTA、grab.js 热更新。"
     },
     "com.example.flutter_qiangchang2": {
-      "version": "1.0.3",
-      "build": "2",
-      "url": "https://github.com/lljwdbklb/lljwdbklb.github.io/releases/download/v1.0.3/qiang_release_103_2_chang2.apk",
-      "content": "1) 选块改为页内自旋，不再依赖 XPath；2) 14:00 开抢后 1 帧内落位，去掉全部固定等待；3) 接受须知改为瞬时滚到底+轮询可用；4) 版本检查按包名分发，两个包不再互相装错、也不再误报降级；5) grab.js 支持在线热更新。"
+      "version": "1.0.4",
+      "build": "3",
+      "url": "https://github.com/lljwdbklb/lljwdbklb.github.io/releases/download/v1.0.4/qiang_release_104_3_chang2.apk",
+      "content": "1) 两个包桌面名称分开：抢场① / 抢场②，分屏抢两个号不会认错窗口；2) 版本 1.0.4 / build 3，便于确认装的是哪一版；3) 功能同 1.0.3：选块页内自旋、14:00 一帧落位、接受须知轮询、双包 OTA、grab.js 热更新。"
     }
   }
 }
