@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "updated": "2026-11-19T02:05:55.581Z",
+  "scripts": {
+    "grab": {
+      "rev": 2,
+      "version": "1.0.2",
+      "file": "grab-1.0.2.js",
+      "url": "https://lljwdbklb.github.io/qiang/scripts/grab-1.0.2.js",
+      "size": 7936,
+      "mustContain": [
+        "__TARGETS__",
+        "__HANDLER__",
+        "__DEADLINE_MS__",
+        "requestAnimationFrame"
+      ],
+      "minApp": "1.0.2",
+      "notes": ""
+    }
+  }
+}
